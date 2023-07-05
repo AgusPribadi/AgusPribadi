@@ -3,6 +3,7 @@
 Profile Views : [![HitCount](https://hits.dwyl.com/AgusPribadi/AgusPribadi.svg?style=flat&show=unique)](http://hits.dwyl.com/AgusPribadi/AgusPribadi)
 
   https://hits.dwyl.com/AgusPribadi/AgusPribadi.json
+   https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAgusPribadi%2FAgusPribadi.json%3Fcolor%3Dpink
 
 <!--
 **AgusPribadi/AgusPribadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
