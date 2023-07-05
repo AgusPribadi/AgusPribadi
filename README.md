@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Profile Views :  [![HitCount](https://hits.dwyl.com/AgusPribadi/AgusPribadi.svg?style=flat-square)](http://hits.dwyl.com/AgusPribadi/AgusPribadi)
+
 <!--
 **AgusPribadi/AgusPribadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
