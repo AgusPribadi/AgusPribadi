@@ -9,7 +9,7 @@ I'm Fullstack Developer React and Django
 * 🌍  I'm based in Pontianak
 * 🖥️  See my portfolio at [My Portfolio](http://aguspribadi.vercel.app/)
 * ✉️  You can contact me at [aguspribadi368@gmail.com](mailto:aguspribadi368@gmail.com)
-* 🚀  I'm currently working on [Maspix](http://maspix.000webhostapp.com/)
+* 🚀  I'm currently working on [Maspix](https://maspix.netlify.app/)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Startup Projects
 * ⚡  I am a final student in Informatics Engineering Study Program, University of Muhammadiyah Pontianak
